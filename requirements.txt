@@ -1,0 +1,18 @@
+# Web App Development
+streamlit
+
+# Utilities
+requests
+
+streamlit
+langchain-mistralai
+langchain-core
+pydantic
+python-dotenv
+plotly
+ 
+# SQL support
+psycopg2-binary
+ 
+# MongoDB support
+pymongo
